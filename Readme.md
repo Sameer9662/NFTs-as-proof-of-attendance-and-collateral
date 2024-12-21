@@ -8,6 +8,8 @@ NFTs as proof of attendance and collateral is a blockchain-based smart contract 
 
 ## Contract Address
 0xBa3a16b5219Ac2C64e8C1e11164C11164cFdC1BB
+![image](https://github.com/user-attachments/assets/54e7660f-b7f8-4372-aab9-efea3ca90bf6)
+
 
 ## Project Vision
 The vision of NFTs as proof of attendance and collateral is to leverage blockchain technology to revolutionize attendance tracking by integrating it with NFT and DeFi functionalities. This project envisions a future where attendance verification is immutable, verifiable, and incentivized, providing a robust solution for educational institutions, event organizers, and corporate sectors.
